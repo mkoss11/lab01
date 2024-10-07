@@ -37,9 +37,9 @@ main {
 }
 
 details section h2 {
-    margin: 25px;
+    margin: 20px;
     padding-left: 10px;
-    padding-bottom: 5px;
+
 }
 
 .details section.with-code {
@@ -69,8 +69,7 @@ h1 {
 }
 
 h2 {
-    margin: 0 0 10px 0;
-    padding: 25px;
+    margin: 0 0 15px 0;
 }
 
 p {

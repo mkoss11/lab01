@@ -14,8 +14,24 @@ main {
 
 .details {
     display: flex;
+    gap: 25px;
+}
+
+.details section {
+    flex-grow: 1;
+    flex-basis: 0;
+    background: #eee;
+    padding: 20px;
 }
 
 img {
     width: 100%;
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
 }

@@ -39,6 +39,7 @@ main {
 details section h2 {
     margin: 25px;
     padding-left: 10px;
+    padding-bottom: 5px;
 }
 
 .details section.with-code {
